@@ -20,10 +20,6 @@
 - Pillow
 - その他（詳細は`requirements.txt`を参照）
 
-依存関係をインストールするには、以下のコマンドを使用してください。
-
-```bash
-pip install -r requirements.txt
 
 ## データセット
 spring_deneration.pyでblenderからデータセットを用意しました
