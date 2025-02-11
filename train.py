@@ -8,8 +8,8 @@ import torch.nn as nn
 import torch.optim as optim
 
 # データセットのパス
-dataset_path = r'C:\Users\sugi2\OneDrive\プログラミング\blender\spring_data\transforms_train.json'
-image_folder = r'C:\Users\sugi2\OneDrive\プログラミング\blender\spring_data\train'
+dataset_path = r''
+image_folder = r''
 
 # JSONファイルの読み込み
 with open(dataset_path, 'r') as f:
